@@ -57,6 +57,7 @@ Operational Risk Monitoring
 Data Visualization & Insights Generation
 
 📷 Dashboard Screenshots
+
 Executive Revenue Overview
 
 <img width="1131" height="636" alt="Page 1" src="https://github.com/user-attachments/assets/4e5d6f55-8df2-418a-9453-2b9a6b8e0f7c" />
@@ -68,11 +69,15 @@ Reconciliation & Risk Monitoring
 
 
 📂 Project Files
+
 .pbix Power BI dashboard file
+
 Dashboard screenshots
+
 README documentation
 
 🚀 Project Objective
+
 The objective of this project was to move beyond generic sales dashboards and build a business-oriented analytics solution that combines:
 
 executive reporting
