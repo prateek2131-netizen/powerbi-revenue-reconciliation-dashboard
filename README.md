@@ -9,49 +9,81 @@ The dashboard combines executive sales reporting with reconciliation-focused mon
 📊 Dashboard Structure
 
 📍 Page 1 — Executive Revenue Overview
+
 Focused on high-level business performance and sales analytics.
 
 Key Features
+
 Gross Revenue, Net Revenue & Gross Profit KPIs
+
 Average Order Value (AOV)
+
 Revenue Performance Trend Analysis
+
 Product Category Contribution
+
 Revenue by Country
+
 Return Rate Monitoring by Territory
 
 📍 Page 2 — Reconciliation & Risk Monitoring
+
 Focused on operational risk analysis and reconciliation insights.
 
 Key Features
+
 Revenue Leakage %
+
 Returned Revenue Analysis
+
 Missing Invoice Monitoring
+
 Refund Difference Tracking
+
 Geographic Return Risk Distribution
+
 Invoice Reconciliation Status
+
 Key Reconciliation Insights
 
 📈 Key Insights
+
 Missing invoices account for 2.25% of total orders
+
 Australia and United States show highest returned revenue impact
+
 Return rates remain stable across territories, averaging near 2%
+
 Revenue leakage remains controlled below 5%
 
 🛠 Tools & Technologies Used
+
 Power BI
+
 Power Query
+
 DAX
+
 Excel
+
 AdventureWorks Dataset
 
 📌 Skills Demonstrated
+
 Data Modeling & Relationships
+
 DAX Measure Creation
+
 KPI Design & Business Reporting
+
 Dashboard Storytelling
+
 Revenue Reconciliation Analytics
+
 Executive Dashboard Development
+
 Operational Risk Monitoring
+
 Data Visualization & Insights Generation
 
 📷 Dashboard Screenshots
@@ -78,8 +110,11 @@ README documentation
 🚀 Project Objective - The objective of this project was to move beyond generic sales dashboards and build a business-oriented analytics solution that combines:
 
 executive reporting
+
 operational monitoring
+
 reconciliation tracking
+
 risk-focused analytics
 
 to simulate real-world reporting scenarios.
