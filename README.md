@@ -1,8 +1,6 @@
 Revenue Reconciliation & Sales Analytics Dashboard
 
-A Power BI dashboard project focused on:
-
-Revenue Reconciliation, Risk Monitoring, and Executive Sales Analytics
+A Power BI dashboard project focused on: Revenue Reconciliation, Risk Monitoring, and Executive Sales Analytics
 
 This project was designed to simulate real-world business reporting used by Revenue Analysts, Reporting Analysts, and Financial Operations teams.
 
@@ -76,9 +74,7 @@ Dashboard screenshots
 
 README documentation
 
-🚀 Project Objective
-
-The objective of this project was to move beyond generic sales dashboards and build a business-oriented analytics solution that combines:
+🚀 Project Objective - The objective of this project was to move beyond generic sales dashboards and build a business-oriented analytics solution that combines:
 
 executive reporting
 operational monitoring
