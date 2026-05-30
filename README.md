@@ -45,10 +45,6 @@ Built to simulate real-world reporting used by Revenue Analysts, Reporting Analy
 * Revenue Reconciliation Analytics
 * Executive Reporting
 
-## Project Objective
-
-To build a business-focused analytics solution that combines executive reporting, reconciliation tracking, and operational risk monitoring in a single dashboard.
-
 📷 Dashboard Screenshots
 
 Executive Revenue Overview
@@ -61,5 +57,9 @@ Reconciliation & Risk Monitoring
 
 <img width="965" height="755" alt="Page 2" src="https://github.com/user-attachments/assets/a119e6fc-3cfb-48ab-bba0-73707a35a1c8" />
 
+
+## Project Objective
+
+To build a business-focused analytics solution that combines executive reporting, reconciliation tracking, and operational risk monitoring in a single dashboard.
 
 **Author:** Prateek Kandwal
