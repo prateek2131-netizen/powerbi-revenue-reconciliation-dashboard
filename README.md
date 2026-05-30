@@ -1,90 +1,53 @@
-Revenue Reconciliation & Sales Analytics Dashboard
+# Revenue Reconciliation & Sales Analytics Dashboard
 
-A Power BI dashboard project focused on: Revenue Reconciliation, Risk Monitoring, and Executive Sales Analytics
+A Power BI project focused on Revenue Reconciliation, Risk Monitoring, and Executive Sales Analytics.
 
-This project was designed to simulate real-world business reporting used by Revenue Analysts, Reporting Analysts, and Financial Operations teams.
+Built to simulate real-world reporting used by Revenue Analysts, Reporting Analysts, and Financial Operations teams.
 
-The dashboard combines executive sales reporting with reconciliation-focused monitoring to identify revenue leakage, return risks, refund discrepancies, and invoice tracking issues.
+## Dashboard Overview
 
-📊 Dashboard Structure
+### Executive Revenue Overview
 
-📍 Page 1 — Executive Revenue Overview
+* Revenue & Profitability KPIs
+* Revenue Trends
+* Category Performance
+* Geographic Sales Analysis
+* Return Rate Monitoring
 
-Focused on high-level business performance and sales analytics.
+### Reconciliation & Risk Monitoring
 
-Key Features
+* Revenue Leakage Analysis
+* Missing Invoice Tracking
+* Refund Monitoring
+* Returned Revenue Analysis
+* Risk Categorization
 
-Gross Revenue, Net Revenue & Gross Profit KPIs
+## Key Insights
 
-Average Order Value (AOV)
+* 2.25% of orders have missing invoices
+* Australia and the United States show the highest returned revenue impact
+* Revenue leakage remains below 5%
 
-Revenue Performance Trend Analysis
+## Tools Used
 
-Product Category Contribution
+* Power BI
+* DAX
+* Power Query
+* Excel
+* AdventureWorks Dataset
 
-Revenue by Country
+## Skills Demonstrated
 
-Return Rate Monitoring by Territory
+* Data Modeling
+* DAX Development
+* KPI Design
+* Dashboard Storytelling
+* Revenue Reconciliation Analytics
+* Executive Reporting
 
-📍 Page 2 — Reconciliation & Risk Monitoring
+## Project Objective
 
-Focused on operational risk analysis and reconciliation insights.
-
-Key Features
-
-Revenue Leakage %
-
-Returned Revenue Analysis
-
-Missing Invoice Monitoring
-
-Refund Difference Tracking
-
-Geographic Return Risk Distribution
-
-Invoice Reconciliation Status
-
-Key Reconciliation Insights
-
-📈 Key Insights
-
-Missing invoices account for 2.25% of total orders
-
-Australia and United States show highest returned revenue impact
-
-Return rates remain stable across territories, averaging near 2%
-
-Revenue leakage remains controlled below 5%
-
-🛠 Tools & Technologies Used
-
-Power BI
-
-Power Query
-
-DAX
-
-Excel
-
-AdventureWorks Dataset
-
-📌 Skills Demonstrated
-
-Data Modeling & Relationships
-
-DAX Measure Creation
-
-KPI Design & Business Reporting
-
-Dashboard Storytelling
-
-Revenue Reconciliation Analytics
-
-Executive Dashboard Development
-
-Operational Risk Monitoring
-
-Data Visualization & Insights Generation
+To build a business-focused analytics solution that combines executive reporting, reconciliation tracking, and operational risk monitoring in a single dashboard.
 
 📷 Dashboard Screenshots
 
@@ -99,27 +62,4 @@ Reconciliation & Risk Monitoring
 <img width="965" height="755" alt="Page 2" src="https://github.com/user-attachments/assets/a119e6fc-3cfb-48ab-bba0-73707a35a1c8" />
 
 
-📂 Project Files
-
-.pbix Power BI dashboard file
-
-Dashboard screenshots
-
-README documentation
-
-🚀 Project Objective - The objective of this project was to move beyond generic sales dashboards and build a business-oriented analytics solution that combines:
-
-executive reporting
-
-operational monitoring
-
-reconciliation tracking
-
-risk-focused analytics
-
-to simulate real-world reporting scenarios.
-
-🔗 Author
-
-Prateek Kandwal
-Aspiring Reporting / Revenue / Business Analyst
+**Author:** Prateek Kandwal
